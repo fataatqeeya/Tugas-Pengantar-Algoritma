@@ -4,7 +4,7 @@ data_kelompok = "2 3 2 5 3\n1 2 3 1 2\n3 0 5 6 1\n4 2 5 2 2\n2 1 6 3 3\n5 4 6 7 
 
 m_data = Matrix(data_kelompok)
 hari = ["Senin", "Selasa", "Rabu", "Kamis", "Jumat", "Sabtu", "Minggu"]
-anggota = ["fata", "atha", "ghafthan", "akmal", "El"]
+anggota = ["Fata", "Atha", "Ghafthan", "Akmal", "El"]
 
 print("--- Total Jam Belajar per Hari ---")
 for i in range(1, 8):
